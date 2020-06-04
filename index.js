@@ -66,6 +66,5 @@ function bindEvents(bot) {
     if (message.startsWith(prefix)) {
       cmdhandler.handleCmd(bot,message)
     }
-'NzE1OTg5NDIxODk1MzE5NjMz.Xtk4aw.ppjTMHLWwTaisCVpBgcsBpg4NL8'
   })
 }
